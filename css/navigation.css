@@ -1,0 +1,31 @@
+.navigation {
+    border: 1px solid black;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: inset 0px 0px 25px 12px #E5E4DC;
+}
+
+.navigation__item {
+    display: inline-block;
+    padding: 20px;
+}
+
+.navigation__link {
+    font-size: 26px;
+    color: black;
+    text-decoration: none;
+}
+
+.navigation__link:focus {
+    outline: 2px solid red;
+}
+
+.navigation__link:hover {
+    color: rgb(153, 3, 128);
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+.navigation__link:active {
+    color: rgb(1, 86, 245);
+}

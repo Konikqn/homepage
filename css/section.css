@@ -1,0 +1,11 @@
+.section {
+    border: 1px solid black;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px -5px 19px 3px #BCA0F7;
+}
+
+.section__header {
+    font-size: 28px;
+}

@@ -1,0 +1,32 @@
+.tableContainer {
+    text-align: center;
+    overflow-x: auto;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table__cell {
+    border: 1px solid;
+    padding: 20px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table__cell--header {
+    background-color: rgb(190, 141, 245);
+}
+
+.table__row:hover {
+    background-color: rgb(226, 221, 228);
+}
+
+.table__caption {
+    caption-side: top;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: bold;
+}

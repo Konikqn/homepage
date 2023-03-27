@@ -1,0 +1,11 @@
+.footer {
+    border: 1px solid black;
+    margin: 60px;
+    padding: 10px;
+    border-radius: 10px;
+    outline: 1px solid black;
+    box-shadow: inset 0px 0px 25px 12px #E5E4DC;
+}
+.js-footer__hideFooter {
+    display: none;
+}

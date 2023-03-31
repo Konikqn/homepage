@@ -2,7 +2,7 @@
 
 ## DEMO
  
-(https://konikqn.github.io/homepage/)
+https://konikqn.github.io/homepage/
 
 ## DESCRIPTION
 This website describes my mountain trips from 2022. 
